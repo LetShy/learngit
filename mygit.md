@@ -14,5 +14,7 @@ Git has a mutable index called stage.
 dev add
 
 dev add second
-=======
+
 master add second
+
+dev add third
